@@ -1,4 +1,4 @@
-# 🧪 Ab-NeurIPS-p1 (Explained)
+# 🧪 Ab-NeurIPS-p1 code (Explained)
 
 This repository contains a baseline solution for the **Open Polymer Prediction 2025** competition hosted on Kaggle. This guide explains **how the code works step by step**, including data processing, feature extraction, model training, and submission generation.
 
